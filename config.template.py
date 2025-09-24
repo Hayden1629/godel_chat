@@ -4,3 +4,4 @@
 GODEL_URL = "https://app.godelterminal.com/"
 GODEL_USERNAME = "your_email@example.com"
 GODEL_PASSWORD = "your_password" 
+LOG_DIRECTORY = ""C:/Users/......"
