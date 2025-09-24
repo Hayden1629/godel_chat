@@ -1,0 +1,894 @@
+[
+  {
+    "date": "20250923",
+    "timestamp": "5:03 PM",
+    "username": "VirtualEdge",
+    "content": "along w other dogshit names like BBAI",
+    "isReply": false,
+    "msg_id": "5:03 PM_VirtualEdge_along w other dogshit names like BBAI"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "5:03 PM",
+    "username": "frodoBaggins",
+    "content": "bro skipped 4x and went right to 40x",
+    "isReply": false,
+    "msg_id": "5:03 PM_frodoBaggins_bro skipped 4x and went right to 40x"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "5:03 PM",
+    "username": "olo",
+    "content": "but there's too many of those dogshit stocks. enough for 1 of them to fall and then the dominos go (I hope)",
+    "isReply": false,
+    "msg_id": "5:03 PM_olo_but there's too many of those dogshit stocks. enou"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "5:06 PM",
+    "username": "Davide",
+    "content": "???",
+    "isReply": true,
+    "msg_id": "5:06 PM_Davide_???",
+    "replied_to": "frodoBaggins",
+    "reply_msg_id": "5:03 PM_frodoBaggins_bro skipped 4x and went right to 40x"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "5:06 PM",
+    "username": "Davide",
+    "content": "https://x.com/Breadddman/status/1970525049527640155",
+    "isReply": false,
+    "msg_id": "5:06 PM_Davide_https://x.com/Breadddman/status/197052504952764015"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "5:20 PM",
+    "username": "luckyraven",
+    "content": "@martin is it possible to add canadian brokerage accts?",
+    "isReply": true,
+    "msg_id": "5:20 PM_luckyraven_@martin is it possible to add canadian brokerage a",
+    "replied_to": "martin",
+    "reply_msg_id": null
+  },
+  {
+    "date": "20250923",
+    "timestamp": "5:22 PM",
+    "username": "risktake",
+    "content": "TD direct investing is there. is that the American or Canadian? havent tried linking my broker yet",
+    "isReply": true,
+    "msg_id": "5:22 PM_risktake_TD direct investing is there. is that the American",
+    "replied_to": "luckyraven",
+    "reply_msg_id": "5:20 PM_luckyraven_@martin is it possible to add canadian brokerage a"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "5:22 PM",
+    "username": "marcopolo",
+    "content": "IBKR should work tho so might make a small port there to connect",
+    "isReply": false,
+    "msg_id": "5:22 PM_marcopolo_IBKR should work tho so might make a small port th"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "5:47 PM",
+    "username": "ShortVolCapital",
+    "content": "https://x.com/stocktalkweekly/status/1970606598000128224?s=46",
+    "isReply": false,
+    "msg_id": "5:47 PM_ShortVolCapital_https://x.com/stocktalkweekly/status/1970606598000"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "5:47 PM",
+    "username": "ShortVolCapital",
+    "content": "One gorillion to AI",
+    "isReply": false,
+    "msg_id": "5:47 PM_ShortVolCapital_One gorillion to AI"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "5:53 PM",
+    "username": "IvanVasilevtd",
+    "content": "Does anyone have a position in\nNET\n-2.31%\n? I am using their products around work, but when I started modeling it, it just looks like a really bad deal at this price.",
+    "isReply": false,
+    "msg_id": "5:53 PM_IvanVasilevtd_Does anyone have a position in\nNET\n[PRICE]%\n? I am"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "5:56 PM",
+    "username": "VirtualEdge",
+    "content": "i've got a decent size position in one acct almost 70% of port, its always been an expensive stock",
+    "isReply": true,
+    "msg_id": "5:56 PM_VirtualEdge_i've got a decent size position in one acct almost",
+    "replied_to": "IvanVasilevtd",
+    "reply_msg_id": "5:53 PM_IvanVasilevtd_Does anyone have a position in\nNET\n[PRICE]%\n? I am"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "5:57 PM",
+    "username": "VirtualEdge",
+    "content": "they're guiding for 5B ARR by 2028",
+    "isReply": false,
+    "msg_id": "5:57 PM_VirtualEdge_they're guiding for 5B ARR by 2028"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "5:57 PM",
+    "username": "VirtualEdge",
+    "content": "current valuation is nosebleed",
+    "isReply": false,
+    "msg_id": "5:57 PM_VirtualEdge_current valuation is nosebleed"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "5:59 PM",
+    "username": "schwab99",
+    "content": "if I knew market was going to start pricing at 2030 ARR would have grabbed at 80@VirtualEdge",
+    "isReply": false,
+    "msg_id": "5:59 PM_schwab99_if I knew market was going to start pricing at 203"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "5:59 PM",
+    "username": "schwab99",
+    "content": "only 5x 28 ARR then :)",
+    "isReply": false,
+    "msg_id": "5:59 PM_schwab99_only 5x 28 ARR then :)"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "6:00 PM",
+    "username": "schwab99",
+    "content": "FLNC\n-2.26%\nis something like 4x 28 ARR if you want to pump my bags",
+    "isReply": false,
+    "msg_id": "6:00 PM_schwab99_FLNC\n[PRICE]%\nis something like 4x 28 ARR if you w"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "6:02 PM",
+    "username": "IvanVasilevtd",
+    "content": "@VirtualEdge Ty",
+    "isReply": false,
+    "msg_id": "6:02 PM_IvanVasilevtd_@VirtualEdge Ty"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "6:04 PM",
+    "username": "VirtualEdge",
+    "content": "don't worry if the market tanks it'll go -70% again",
+    "isReply": true,
+    "msg_id": "6:04 PM_VirtualEdge_don't worry if the market tanks it'll go -70% agai",
+    "replied_to": "schwab99",
+    "reply_msg_id": "5:59 PM_schwab99_if I knew market was going to start pricing at 203"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "6:05 PM",
+    "username": "VirtualEdge",
+    "content": "great company though, huge moat 20% of the internet uses their CDN products and they have their hands in everything - SASE/ZT, cloud",
+    "isReply": false,
+    "msg_id": "6:05 PM_VirtualEdge_great company though, huge moat 20% of the interne"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "6:07 PM",
+    "username": "schwab99",
+    "content": "yeah I'd love it at 50 lol!",
+    "isReply": false,
+    "msg_id": "6:07 PM_schwab99_yeah I'd love it at 50 lol!"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "6:07 PM",
+    "username": "IvanVasilevtd",
+    "content": "Yep, a few years back worked for a web-hosting company. Each one of our clients had their CDN in place. Great product",
+    "isReply": false,
+    "msg_id": "6:07 PM_IvanVasilevtd_Yep, a few years back worked for a web-hosting com"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "6:27 PM",
+    "username": "tnasama",
+    "content": "i want a vtuber",
+    "isReply": true,
+    "msg_id": "6:27 PM_tnasama_i want a vtuber",
+    "replied_to": "martin",
+    "reply_msg_id": null
+  },
+  {
+    "date": "20250923",
+    "timestamp": "6:29 PM",
+    "username": "syzygy",
+    "content": "I have a chunk of NET Jan'27 strike 130 LEAP calls, bought in March-April of this year",
+    "isReply": false,
+    "msg_id": "6:29 PM_syzygy_I have a chunk of NET Jan'27 strike 130 LEAP calls"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "6:31 PM",
+    "username": "AspenMoeburg",
+    "content": "connected a brokerage, IM DOING MY PART!!!",
+    "isReply": false,
+    "msg_id": "6:31 PM_AspenMoeburg_connected a brokerage, IM DOING MY PART!!!"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "6:32 PM",
+    "username": "AspenMoeburg",
+    "content": "Quantum Shorts Support Group (please)",
+    "isReply": false,
+    "msg_id": "6:32 PM_AspenMoeburg_Quantum Shorts Support Group (please)"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "6:42 PM",
+    "username": "austin_",
+    "content": "Need Martin to come in with the port analytics on cumulative QC losses in the chat",
+    "isReply": false,
+    "msg_id": "6:42 PM_austin__Need Martin to come in with the port analytics on "
+  },
+  {
+    "date": "20250923",
+    "timestamp": "6:52 PM",
+    "username": "LeedsCreek",
+    "content": "so did we all sell our holding and leave investing cuz jay Powell thinks stocks are expensive. remember when Janet Y did the same thing regarding biotech stocks when she was serving. no need for Fed to comment on stock prices IMHO",
+    "isReply": false,
+    "msg_id": "6:52 PM_LeedsCreek_so did we all sell our holding and leave investing"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "6:53 PM",
+    "username": "LeedsCreek",
+    "content": "BTW biotech stocks snapped back after Janet crashed it that day a few years back now",
+    "isReply": false,
+    "msg_id": "6:53 PM_LeedsCreek_BTW biotech stocks snapped back after Janet crashe"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "7:14 PM",
+    "username": "BishopToups",
+    "content": "I can't wait for jpow to be gone",
+    "isReply": false,
+    "msg_id": "7:14 PM_BishopToups_I can't wait for jpow to be gone"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "7:19 PM",
+    "username": "antityping",
+    "content": "Is benzinga pumping QC? Just curious?",
+    "isReply": false,
+    "msg_id": "7:19 PM_antityping_Is benzinga pumping QC? Just curious?"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "7:34 PM",
+    "username": "martin",
+    "content": "119 users connected to godel. 16,900,000 worth",
+    "isReply": false,
+    "msg_id": "7:34 PM_martin_119 users connected to godel. 16,900,000 worth"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "7:36 PM",
+    "username": "paulscu",
+    "content": "I would connect but my quantum trades are too embarrassing",
+    "isReply": false,
+    "msg_id": "7:36 PM_paulscu_I would connect but my quantum trades are too emba"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "7:36 PM",
+    "username": "martin",
+    "content": "was 108 --> 12.8m",
+    "isReply": false,
+    "msg_id": "7:36 PM_martin_was 108 --> 12.8m"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "7:36 PM",
+    "username": "martin",
+    "content": "i cant see them dont worry",
+    "isReply": false,
+    "msg_id": "7:36 PM_martin_i cant see them dont worry"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "7:37 PM",
+    "username": "martin",
+    "content": "those accounts were 400k each lol",
+    "isReply": false,
+    "msg_id": "7:37 PM_martin_those accounts were 400k each lol"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "7:37 PM",
+    "username": "paulscu",
+    "content": "hmm ok",
+    "isReply": true,
+    "msg_id": "7:37 PM_paulscu_hmm ok",
+    "replied_to": "martin",
+    "reply_msg_id": "7:36 PM_martin_i cant see them dont worry"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "7:39 PM",
+    "username": "jaecer",
+    "content": "LAC\n+65.76%\njumped on a potential government stake, could be a potential setup to go short",
+    "isReply": false,
+    "msg_id": "7:39 PM_jaecer_LAC\n[PRICE]%\njumped on a potential government stak"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "7:40 PM",
+    "username": "DonnieDarko",
+    "content": "my brokerage not supported",
+    "isReply": false,
+    "msg_id": "7:40 PM_DonnieDarko_my brokerage not supported"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "7:40 PM",
+    "username": "austin_",
+    "content": "Look at\nMP\n+2.43%\nfor why that is not a good idea",
+    "isReply": false,
+    "msg_id": "7:40 PM_austin__Look at\nMP\n[PRICE]%\nfor why that is not a good ide"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "7:41 PM",
+    "username": "jaecer",
+    "content": "thats insane",
+    "isReply": true,
+    "msg_id": "7:41 PM_jaecer_thats insane",
+    "replied_to": "austin_",
+    "reply_msg_id": "7:40 PM_austin__Look at\nMP\n[PRICE]%\nfor why that is not a good ide"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:01 PM",
+    "username": "schwab99",
+    "content": "the thesis is now govt will push domestic companies to consume US sourced lithium and tariff imports harder, but mine won't even produce until 27",
+    "isReply": true,
+    "msg_id": "8:01 PM_schwab99_the thesis is now govt will push domestic companie",
+    "replied_to": "jaecer",
+    "reply_msg_id": "7:39 PM_jaecer_LAC\n[PRICE]%\njumped on a potential government stak"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:02 PM",
+    "username": "schwab99",
+    "content": "wouldn't be surprised by a fade",
+    "isReply": false,
+    "msg_id": "8:02 PM_schwab99_wouldn't be surprised by a fade"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:02 PM",
+    "username": "schwab99",
+    "content": "if I had more than a small position would dump it",
+    "isReply": false,
+    "msg_id": "8:02 PM_schwab99_if I had more than a small position would dump it"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:05 PM",
+    "username": "jaecer",
+    "content": "yea im banking in on a fade",
+    "isReply": true,
+    "msg_id": "8:05 PM_jaecer_yea im banking in on a fade",
+    "replied_to": "schwab99",
+    "reply_msg_id": "8:02 PM_schwab99_wouldn't be surprised by a fade"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:07 PM",
+    "username": "LeedsCreek",
+    "content": "nice work Godel crew",
+    "isReply": false,
+    "msg_id": "8:07 PM_LeedsCreek_nice work Godel crew"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:11 PM",
+    "username": "RubberBandMan",
+    "content": "Didn't have time to respond earlier sorry. I don't have a lot of faith in\nPYPL\n-0.38%\n's management. They had a huge head start and all of a sudden fintechs are eating their lunch. All their subsidiary products are really bad (imo), and not at the forefront of their niche. Their customers begrudgingly use their services, and are looking for any opportunity to jump ship (kind of like adobe) at least adobe make products that people want to use (they rip their customers off). Paypal just rips their customers off with a terrible, replaceable product",
+    "isReply": true,
+    "msg_id": "8:11 PM_RubberBandMan_Didn't have time to respond earlier sorry. I don't",
+    "replied_to": "HowlinMadMurphy",
+    "reply_msg_id": null
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:16 PM",
+    "username": "RubberBandMan",
+    "content": "They can buy back all the shares they want, its not bad, but it would be nice to see management be able to allocate capital to save this dying business.",
+    "isReply": false,
+    "msg_id": "8:16 PM_RubberBandMan_They can buy back all the shares they want, its no"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:36 PM",
+    "username": "vibe.capital",
+    "content": "I feel like everyone is shilling quantum right now",
+    "isReply": false,
+    "msg_id": "8:36 PM_vibe.capital_I feel like everyone is shilling quantum right now"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "5:53 PM",
+    "username": "IvanVasilevtd",
+    "content": "Does anyone have a position in NET +0.00%? I am using their products around work, but when I started modeling it, it just looks like a really bad deal at this price.",
+    "isReply": false,
+    "msg_id": "5:53 PM_IvanVasilevtd_Does anyone have a position in NET +0.00%? I am us"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:36 PM",
+    "username": "vibe.capital",
+    "content": "so many finfluencers on youtube hawking\nRGTI\n+13.08%\nQUBT\n+5.44%\nQBTS\n+8.22%\nIONQ\n+3.68%",
+    "isReply": false,
+    "msg_id": "8:36 PM_vibe.capital_so many finfluencers on youtube hawking\nRGTI\n[PRIC"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:37 PM",
+    "username": "duckets",
+    "content": "i closed on a loss, looking to reenter later, i feel like this s going to go on for months at this point",
+    "isReply": false,
+    "msg_id": "8:37 PM_duckets_i closed on a loss, looking to reenter later, i fe"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:38 PM",
+    "username": "duckets",
+    "content": "i am mostly cash now",
+    "isReply": false,
+    "msg_id": "8:38 PM_duckets_i am mostly cash now"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:38 PM",
+    "username": "RubberBandMan",
+    "content": "Only so much gas in the tank",
+    "isReply": false,
+    "msg_id": "8:38 PM_RubberBandMan_Only so much gas in the tank"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:41 PM",
+    "username": "vibe.capital",
+    "content": "My prediction: The quantum rally keeps rolling right through the holidays, with folks bragging about their quantum gains over Thanksgiving turkey, endlessly yapping about the quantum internet stack. That'll likely spark a mini-rally from all those FOMO-fueled holiday shoppers, carrying us straight into the Santa Claus rally. But come 2026? Quantum's headed for a epic faceplant.",
+    "isReply": false,
+    "msg_id": "8:41 PM_vibe.capital_My prediction: The quantum rally keeps rolling rig"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "6:00 PM",
+    "username": "schwab99",
+    "content": "FLNC +0.00% is something like 4x 28 ARR if you want to pump my bags chad",
+    "isReply": false,
+    "msg_id": "6:00 PM_schwab99_FLNC +0.00% is something like 4x 28 ARR if you wan"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:42 PM",
+    "username": "RubberBandMan",
+    "content": "Ionq was $40 on sept 11th lol",
+    "isReply": false,
+    "msg_id": "8:42 PM_RubberBandMan_Ionq was $40 on sept 11th lol"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:43 PM",
+    "username": "vibe.capital",
+    "content": "This reminds me of 2018 crypto mania",
+    "isReply": true,
+    "msg_id": "8:43 PM_vibe.capital_This reminds me of 2018 crypto mania",
+    "replied_to": "RubberBandMan",
+    "reply_msg_id": "8:42 PM_RubberBandMan_Ionq was $40 on sept 11th lol"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:43 PM",
+    "username": "gregscott",
+    "content": "i dont think there is as many quantum stock investors as crypto mania times lol",
+    "isReply": false,
+    "msg_id": "8:43 PM_gregscott_i dont think there is as many quantum stock invest"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:43 PM",
+    "username": "vibe.capital",
+    "content": "I had this old secretary who asked me how to buy bitcoin on coinbase",
+    "isReply": false,
+    "msg_id": "8:43 PM_vibe.capital_I had this old secretary who asked me how to buy b"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:43 PM",
+    "username": "vibe.capital",
+    "content": "That was the top signal for me",
+    "isReply": false,
+    "msg_id": "8:43 PM_vibe.capital_That was the top signal for me"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:44 PM",
+    "username": "vibe.capital",
+    "content": "Its the same parallel thought",
+    "isReply": true,
+    "msg_id": "8:44 PM_vibe.capital_Its the same parallel thought",
+    "replied_to": "gregscott",
+    "reply_msg_id": "8:43 PM_gregscott_i dont think there is as many quantum stock invest"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:44 PM",
+    "username": "vibe.capital",
+    "content": "FOMO get rich quick",
+    "isReply": false,
+    "msg_id": "8:44 PM_vibe.capital_FOMO get rich quick"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:44 PM",
+    "username": "vibe.capital",
+    "content": "No one understood blockchain or NFTs and they went in",
+    "isReply": false,
+    "msg_id": "8:44 PM_vibe.capital_No one understood blockchain or NFTs and they went"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:44 PM",
+    "username": "vibe.capital",
+    "content": "same with quantum",
+    "isReply": false,
+    "msg_id": "8:44 PM_vibe.capital_same with quantum"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:44 PM",
+    "username": "RubberBandMan",
+    "content": "Yep. I was asked to look at XRP amongst others in like 2015-16",
+    "isReply": true,
+    "msg_id": "8:44 PM_RubberBandMan_Yep. I was asked to look at XRP amongst others in ",
+    "replied_to": "vibe.capital",
+    "reply_msg_id": "8:43 PM_vibe.capital_I had this old secretary who asked me how to buy b"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:44 PM",
+    "username": "gregscott",
+    "content": "SPACS, EV Bubble a little closer for me",
+    "isReply": false,
+    "msg_id": "8:44 PM_gregscott_SPACS, EV Bubble a little closer for me"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:45 PM",
+    "username": "vibe.capital",
+    "content": "I don't think EV's are a bubble",
+    "isReply": false,
+    "msg_id": "8:45 PM_vibe.capital_I don't think EV's are a bubble"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:45 PM",
+    "username": "vibe.capital",
+    "content": "There are good EVs and shitty EVs",
+    "isReply": false,
+    "msg_id": "8:45 PM_vibe.capital_There are good EVs and shitty EVs"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:46 PM",
+    "username": "RubberBandMan",
+    "content": "Think id rather have a picture of a monkey over Dwave",
+    "isReply": false,
+    "msg_id": "8:46 PM_RubberBandMan_Think id rather have a picture of a monkey over Dw"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:47 PM",
+    "username": "gregscott",
+    "content": "neither is quantum, but the companies shelling it on the stock market were dogshit apart from big players - NKLA, Cannoo, Lion Electric, so many more. All had massive valuations and then went brupt cause no real product",
+    "isReply": false,
+    "msg_id": "8:47 PM_gregscott_neither is quantum, but the companies shelling it "
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:47 PM",
+    "username": "gregscott",
+    "content": "companies shelling quantum on market are dogshit. same scenario",
+    "isReply": false,
+    "msg_id": "8:47 PM_gregscott_companies shelling quantum on market are dogshit. "
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:48 PM",
+    "username": "vibe.capital",
+    "content": "Yeah these were all frauds riding on Tesla's coattails",
+    "isReply": true,
+    "msg_id": "8:48 PM_vibe.capital_Yeah these were all frauds riding on Tesla's coatt",
+    "replied_to": "gregscott",
+    "reply_msg_id": "8:47 PM_gregscott_neither is quantum, but the companies shelling it "
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:48 PM",
+    "username": "vibe.capital",
+    "content": "Quantum is a fraud running on AI's coattails",
+    "isReply": false,
+    "msg_id": "8:48 PM_vibe.capital_Quantum is a fraud running on AI's coattails"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:48 PM",
+    "username": "gregscott",
+    "content": "yup",
+    "isReply": false,
+    "msg_id": "8:48 PM_gregscott_yup"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:49 PM",
+    "username": "vibe.capital",
+    "content": "with those EV stocks people saw the success of tesla and missed out and wanted the same gains from another EV company",
+    "isReply": false,
+    "msg_id": "8:49 PM_vibe.capital_with those EV stocks people saw the success of tes"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:49 PM",
+    "username": "vibe.capital",
+    "content": "with quantum its all a fugazi",
+    "isReply": false,
+    "msg_id": "8:49 PM_vibe.capital_with quantum its all a fugazi"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:49 PM",
+    "username": "vibe.capital",
+    "content": "its just people wanting to get rich",
+    "isReply": false,
+    "msg_id": "8:49 PM_vibe.capital_its just people wanting to get rich"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "7:39 PM",
+    "username": "jaecer",
+    "content": "LAC +0.00% jumped on a potential government stake, could be a potential setup to go short",
+    "isReply": false,
+    "msg_id": "7:39 PM_jaecer_LAC +0.00% jumped on a potential government stake,"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:50 PM",
+    "username": "gregscott",
+    "content": "yes. and quantum holders think its the next\nNVDA\n-3.09%\nand\nPLTR\n+1.52%\n. somehow a mix of the two? quantum is the best",
+    "isReply": false,
+    "msg_id": "8:50 PM_gregscott_yes. and quantum holders think its the next\nNVDA\n["
+  },
+  {
+    "date": "20250923",
+    "timestamp": "7:40 PM",
+    "username": "austin_",
+    "content": "Look at MP +0.00% for why that is not a good idea",
+    "isReply": false,
+    "msg_id": "7:40 PM_austin__Look at MP +0.00% for why that is not a good idea"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:51 PM",
+    "username": "tnasama",
+    "content": "HIMS\n-2.89%\nchat is dead. does it seem wise at this point to try to buy at 50-ish?",
+    "isReply": false,
+    "msg_id": "8:51 PM_tnasama_HIMS\n[PRICE]%\nchat is dead. does it seem wise at t"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:51 PM",
+    "username": "vibe.capital",
+    "content": "I was thinking of trying to scrape social media, mainly reddit and X and see whether mention of quantum is accelerating, peaked, or slowing down",
+    "isReply": false,
+    "msg_id": "8:51 PM_vibe.capital_I was thinking of trying to scrape social media, m"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:53 PM",
+    "username": "vibe.capital",
+    "content": "I think when martin initially started his short quantum was hyped but not like it is now",
+    "isReply": false,
+    "msg_id": "8:53 PM_vibe.capital_I think when martin initially started his short qu"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:54 PM",
+    "username": "vibe.capital",
+    "content": "now its like nearly mainstream",
+    "isReply": false,
+    "msg_id": "8:54 PM_vibe.capital_now its like nearly mainstream"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:54 PM",
+    "username": "tnasama",
+    "content": "well it's been on nvidia calls and cnbc",
+    "isReply": false,
+    "msg_id": "8:54 PM_tnasama_well it's been on nvidia calls and cnbc"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:54 PM",
+    "username": "tnasama",
+    "content": "i wonder where i should be looking these days for market sentiment in general",
+    "isReply": false,
+    "msg_id": "8:54 PM_tnasama_i wonder where i should be looking these days for "
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:54 PM",
+    "username": "vibe.capital",
+    "content": "When I say mainstream I mean people who don't pay any attention to financial media",
+    "isReply": false,
+    "msg_id": "8:54 PM_vibe.capital_When I say mainstream I mean people who don't pay "
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:55 PM",
+    "username": "vibe.capital",
+    "content": "like labubu mainstream",
+    "isReply": false,
+    "msg_id": "8:55 PM_vibe.capital_like labubu mainstream"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:59 PM",
+    "username": "SNK",
+    "content": "been seeing more and more ads for godel nice",
+    "isReply": false,
+    "msg_id": "8:59 PM_SNK_been seeing more and more ads for godel nice"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:59 PM",
+    "username": "SNK",
+    "content": "you have to navigate whether or not what theyre doing is illegal",
+    "isReply": true,
+    "msg_id": "8:59 PM_SNK_you have to navigate whether or not what theyre do",
+    "replied_to": "tnasama",
+    "reply_msg_id": "8:51 PM_tnasama_HIMS\n[PRICE]%\nchat is dead. does it seem wise at t"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "9:00 PM",
+    "username": "SNK",
+    "content": "NVO\n-1.99%\nseems to think so",
+    "isReply": false,
+    "msg_id": "9:00 PM_SNK_NVO\n[PRICE]%\nseems to think so"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "9:01 PM",
+    "username": "vibe.capital",
+    "content": "I think googles little quantum breakthrough really kicked off this quantum momo hype",
+    "isReply": false,
+    "msg_id": "9:01 PM_vibe.capital_I think googles little quantum breakthrough really"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "9:01 PM",
+    "username": "vibe.capital",
+    "content": "and no mention from google ever since",
+    "isReply": false,
+    "msg_id": "9:01 PM_vibe.capital_and no mention from google ever since"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "9:06 PM",
+    "username": "OzymandiasB",
+    "content": "crnx",
+    "isReply": false,
+    "msg_id": "9:06 PM_OzymandiasB_crnx"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "9:27 PM",
+    "username": "AlexRi",
+    "content": "Has Martin covered any of his quantum shorts recently?",
+    "isReply": false,
+    "msg_id": "9:27 PM_AlexRi_Has Martin covered any of his quantum shorts recen"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "9:29 PM",
+    "username": "RubberBandMan",
+    "content": "Has Novo filled against hims?",
+    "isReply": true,
+    "msg_id": "9:29 PM_RubberBandMan_Has Novo filled against hims?",
+    "replied_to": "SNK",
+    "reply_msg_id": "9:00 PM_SNK_NVO\n[PRICE]%\nseems to think so"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "8:36 PM",
+    "username": "vibe.capital",
+    "content": "so many finfluencers on youtube hawking RGTI +0.00% QUBT +0.00% QBTS +0.00% IONQ +0.00%",
+    "isReply": false,
+    "msg_id": "8:36 PM_vibe.capital_so many finfluencers on youtube hawking RGTI +0.00"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "9:55 PM",
+    "username": "mikail",
+    "content": "long report for\nKYTX\n-0.31%\nhttps://x.com/GothamBioCap/status/1970681936931614894",
+    "isReply": false,
+    "msg_id": "9:55 PM_mikail_long report for\nKYTX\n[PRICE]%\nhttps://x.com/Gotham"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "10:05 PM",
+    "username": "Flippin",
+    "content": "I'm still long. Never sold.",
+    "isReply": true,
+    "msg_id": "10:05 PM_Flippin_I'm still long. Never sold.",
+    "replied_to": "tnasama",
+    "reply_msg_id": "8:51 PM_tnasama_HIMS\n[PRICE]%\nchat is dead. does it seem wise at t"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "10:12 PM",
+    "username": "tnasama",
+    "content": "i closed out my last shares at 59, but i was trying to buy more at 49 before this pump",
+    "isReply": true,
+    "msg_id": "10:12 PM_tnasama_i closed out my last shares at 59, but i was tryin",
+    "replied_to": "Flippin",
+    "reply_msg_id": "10:05 PM_Flippin_I'm still long. Never sold."
+  },
+  {
+    "date": "20250923",
+    "timestamp": "10:14 PM",
+    "username": "RubberBandMan",
+    "content": "https://www.sec.gov/Archives/edgar/data/1801169/000119312525213830/xsl144X01/primary_doc.xml\nOPEN\n-15.51%",
+    "isReply": false,
+    "msg_id": "10:14 PM_RubberBandMan_https://www.sec.gov/Archives/edgar/data/1801169/00"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "10:35 PM",
+    "username": "tnasama",
+    "content": "also open: https://x.com/zoomyzoomm/status/1970607275787341870/photo/1",
+    "isReply": false,
+    "msg_id": "10:35 PM_tnasama_also open: https://x.com/zoomyzoomm/status/1970607"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "10:36 PM",
+    "username": "onthervn",
+    "content": "if only I had acted...",
+    "isReply": true,
+    "msg_id": "10:36 PM_onthervn_if only I had acted...",
+    "replied_to": "schwab99",
+    "reply_msg_id": "6:00 PM_schwab99_FLNC +0.00% is something like 4x 28 ARR if you wan"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "10:46 PM",
+    "username": "Arbi7",
+    "content": "google trends basically does this already, plus twitter pumpers run bots, so you may not get accurate info if you end up scraping them.",
+    "isReply": true,
+    "msg_id": "10:46 PM_Arbi7_google trends basically does this already, plus tw",
+    "replied_to": "vibe.capital",
+    "reply_msg_id": "8:51 PM_vibe.capital_I was thinking of trying to scrape social media, m"
+  },
+  {
+    "date": "20250923",
+    "timestamp": "11:57 PM",
+    "username": "luka.skerjanc",
+    "content": "much appreciated",
+    "isReply": true,
+    "msg_id": "11:57 PM_luka.skerjanc_much appreciated",
+    "replied_to": "Davide",
+    "reply_msg_id": "5:06 PM_Davide_https://x.com/Breadddman/status/197052504952764015"
+  }
+]
