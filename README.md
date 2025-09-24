@@ -2,7 +2,7 @@
 
 A tool to scrape chat messages from the Godel Terminal platform with real-time logging capabilities. Data processing and sentiment analysis in development.
 
-Chat logs can be found under chat_logs file as MASTER_LOG.json
+Chat logs can be found in chat_logs folder as MASTER_LOG.json and inception_to9-23.json
 
 ## Installation
 
@@ -18,6 +18,8 @@ pip install -e .
 ## Usage
 
 ### As a command-line tool
+
+Make your own config.py using config.template. Save your godel username and password as well as file directory to store the logs.
 
 After installation, you can run the tool directly from the command line:
 
