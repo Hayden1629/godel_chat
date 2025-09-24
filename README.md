@@ -1,6 +1,8 @@
 # Godel Chat Mine
 
-A tool to scrape and mine chat messages from the Godel Terminal platform with real-time logging capabilities.
+A tool to scrape chat messages from the Godel Terminal platform with real-time logging capabilities. Data processing and sentiment analysis in development.
+
+Chat logs can be found under chat_logs file as MASTER_LOG.json and 
 
 ## Installation
 
@@ -27,7 +29,7 @@ chatscraper.py
 ## Features
 
 - Login to Godel Terminal
-- Navigate to specific chat rooms
+- Navigate to specific chat rooms (currently just general)
 - Extract chat messages with timestamps and usernames
 - Send messages to the chat
 - **Real-time message logging** - each new message is saved to disk immediately
