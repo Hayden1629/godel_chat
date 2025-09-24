@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local configuration
+config.py
+
+# Logs
+*.log
+chat_logs/
+
+# Environment
+.env
+.venv
+env/
+venv/ 
