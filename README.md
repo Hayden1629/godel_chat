@@ -2,7 +2,7 @@
 
 A tool to scrape chat messages from the Godel Terminal platform with real-time logging capabilities. Data processing and sentiment analysis in development.
 
-Chat logs can be found under chat_logs file as MASTER_LOG.json and 
+Chat logs can be found under chat_logs file as MASTER_LOG.json
 
 ## Installation
 
