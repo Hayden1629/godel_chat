@@ -8,7 +8,7 @@ config.py
 
 # Logs
 *.log
-chat_logs/
+
 
 # Environment
 .env
