@@ -4,17 +4,6 @@ A tool to scrape chat messages from the Godel Terminal platform with real-time l
 
 Chat logs can be found in chat_logs folder as MASTER_LOG.json and inception_to9-23.json
 
-## Installation
-
-```bash
-# Clone the repository
-git clone <repository-url>
-cd godel_chat_mine
-
-# Install the package
-pip install -e .
-```
-
 ## Usage
 
 ### As a command-line tool
@@ -26,6 +15,7 @@ After installation, you can run the tool directly from the command line:
 ```bash
 chatscraper.py
 ```
+Leave the selenium instance running to log live chats from Godel. Ctrl + C to quit.
 
 
 ## Features
