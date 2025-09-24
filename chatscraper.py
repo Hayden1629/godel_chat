@@ -13,7 +13,7 @@ import re
 from datetime import datetime
 
 class ChatScraper:
-    def __init__(self, url, username=None, password=None, headless=False, log_directory="chat_logs"):
+    def __init__(self, url, username=None, password=None, log_directory="chat_logs", headless=False):
         """
         Initialize the ChatScraper
         
@@ -29,7 +29,7 @@ class ChatScraper:
         self.password = password
         self.known_messages = set()  # To track messages we've already processed
         self.message_data = []  # Store all message data
-        self.log_directory = "C:/Users/Hayde/Documents/GitHub/godel_chat/chat_logs" #for windows
+        self.log_directory = log_directory #for windows
         #self.log_directory = "/Users/haydenherstrom/codeprojects/godel_chat/chat_logs" #for mac
         
         # Create log directory if it doesn't exist
@@ -54,7 +54,7 @@ class ChatScraper:
         chrome_options = Options()
         if headless:
             chrome_options.add_argument("--headless")
-        chrome_options.add_argument("--window-size=600,800")
+        chrome_options.add_argument("--window-size=900,800")
 
         self.driver = webdriver.Chrome(options=chrome_options)
         try:
@@ -533,13 +533,13 @@ class ChatScraper:
 def main():
     try:
         # Import configuration
-        from config import GODEL_URL, GODEL_USERNAME, GODEL_PASSWORD
+        from config import GODEL_URL, GODEL_USERNAME, GODEL_PASSWORD, LOG_DIRECTORY
     except ImportError:
         print("Error: Could not find config.py. Please copy config.template.py to config.py and update with your credentials.")
         return
     
     # Create the scraper
-    scraper = ChatScraper(GODEL_URL, GODEL_USERNAME, GODEL_PASSWORD)
+    scraper = ChatScraper(GODEL_URL, GODEL_USERNAME, GODEL_PASSWORD, LOG_DIRECTORY)
     
     try:
         # Login and navigate to the chat
