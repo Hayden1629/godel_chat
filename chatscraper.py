@@ -165,7 +165,7 @@ class ChatScraper:
             password_field.send_keys(self.password)
 
             # Find login button by text
-            login_button = self.driver.find_element(By.XPATH, "//button[text()='Login']")
+            login_button = self.driver.find_element(By.XPATH, '//*[@id="root"]/div[2]/div[3]/div/div[2]/div/form/div[2]/button')
             login_button.click()
             print("Login successful")
         except Exception as e:
